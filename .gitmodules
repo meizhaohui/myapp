@@ -1,0 +1,3 @@
+[submodule "docs/CM/git-docs"]
+	path = docs/CM/git-docs
+	url = git@github.com:meizhaohui/git.git
